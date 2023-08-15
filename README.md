@@ -5,9 +5,9 @@ My name is Victor! I'm currently studying Computer Science and Data Science at R
 
 ## 👨‍💻 Quick Facts
 - Pursuing a B.S. in Computer Science and a minor in Data Science at Rice University
-- Conducting machine learning research to make deep learning more scalable
-- Leading a team of volunteer developers to build web and mobile software products for nonprofit organizations in the local community.
-- Mentoring students as a Teaching Assistant for classes covering data structures, algorithms, discrete math, and object-oriented design.
+- Conducting **machine learning research** to make deep learning more scalable
+- Leading a team of volunteer developers to build **web and mobile software products for nonprofit organizations** in the local community.
+- Mentoring students as a Teaching Assistant for classes covering **data structures, algorithms, discrete math, and object-oriented design**.
 
 
 ## 🔗 Links
